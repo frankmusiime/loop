@@ -1,0 +1,5 @@
+#!/bin/bash
+for names in Tom Patrick John James Sam
+do
+echo "Hi $names, how is your to day"
+done
